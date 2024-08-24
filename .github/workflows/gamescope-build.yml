@@ -1,6 +1,6 @@
 on:
   push:
-    branches: [main]
+    branches: [3.14.2-fix]
   pull_request:
 name: CI
 jobs:
